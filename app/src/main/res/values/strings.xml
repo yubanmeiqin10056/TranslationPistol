@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TranslationPistol</string>
+    <string name="btn_capture">拍照</string>
+    <string name="btn_translate">翻译</string>
+    <string name="txt_result">翻译结果：</string>
+</resources>
